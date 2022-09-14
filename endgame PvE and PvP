@@ -7,6 +7,11 @@ dimwishlist:item=291092617&perks=839105230,3142289711,3038247973,3824105627
 dimwishlist:item=291092617&perks=839105230,3142289711,3038247973,4293542123
 
 
+// Zaouli's Bane (pve)
+//notes: tags:pve
+dimwishlist:item=431721920&perks=3038247973,4293542123,120721526
+
+
 // Zaouli's Bane (Harrowed) (pve)
 //notes: Essentially a discount fatebringer. For PvE you can double stack explosive payload and one for all for double damage perks, or incandescent for solar builds. tags:pve
 dimwishlist:item=291092617&perks=839105230,3142289711,3038247973,4049631843,120721526
